@@ -1,0 +1,10 @@
+.methodology-image {
+    width: 320px;
+    height: 400px; 
+    background-image: url('../images/learning.jpeg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 0.375rem;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.15);
+  }
+  
